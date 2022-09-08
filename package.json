@@ -1,5 +1,5 @@
 {
-  "name": "Jessi-whatsapp-bot-md",
+  "name": "Lexha-whatsapp-bot-md",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "jessimd.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "H3L7BOY",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2.git"
+    "url": "git+https://github.com/H3L7BOY/Lexha-whatsapp-bot-md2.git"
   },
   "bugs": {
-    "url": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/issues"
+    "url": "https://github.com/H3L7BOY/Lexha-whatsapp-bot-md2/issues"
   },
-  "homepage": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2#readme"
+  "homepage": "https://github.com/H3L7BOY/Lexha-whatsapp-bot-md2#readme"
 }
