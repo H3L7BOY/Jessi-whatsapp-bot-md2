@@ -1,8 +1,8 @@
 {
-  "name": "Jessi-whatsapp-bot-md",
+  "name": "LEXHA-whatsapp-bot-md",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2",
-  "logo": "https://telegra.ph/file/57e0679dc28177770f449.jpg",
+  "repository": "https://github.com/H3L7BOY/LEXHA-whatsapp-bot-md2",
+  "logo": "https://telegra.ph/file/327d24337c25275fc5343.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
